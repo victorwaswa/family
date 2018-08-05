@@ -1,5 +1,5 @@
 body{
-    background-color: aqua;
+    background-color:black;
 }
 .v1{
     margin-left: 20%;
@@ -13,6 +13,12 @@ margin-left: 70%;
 }
 .v4{
 margin-left: 90%;
+margin-bottom: 38%;
 }
-.row1{
+.footer{
+    margin-left: 30%;
+}
+.color{
+    color: white;
+    margin-left: 18%;
 }
