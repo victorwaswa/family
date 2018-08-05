@@ -2,18 +2,16 @@ body{
     background-color:black;
 }
 .v1{
-    margin-left: 20%;
+    margin-left: 35%;
 }
+
 .v2{
-margin-left: 20%;
-}
-.v3{
-margin-left: 70%;
+    margin-left: 40%;
 
 }
-.v4{
-margin-left: 90%;
-margin-bottom: 38%;
+.intro{
+    margin-left: 30%;
+    font-family: 'Pacifico', cursive;
 }
 .footer{
     margin-left: 30%;
@@ -21,4 +19,7 @@ margin-bottom: 38%;
 .color{
     color: white;
     margin-left: 18%;
+}
+.copyright{
+    color: white;
 }
