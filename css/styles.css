@@ -12,6 +12,7 @@ body{
 .intro{
     margin-left: 30%;
     font-family: 'Pacifico', cursive;
+    color: whitesmoke;
 } 
 .boder{
     border-style: solid;
@@ -42,6 +43,13 @@ body{
     font-family: 'Pacifico', cursive;
     color: whitesmoke;
     
+}
+.image6{
+    margin-left: 30%;
+}
+.image7{
+    margin-left: 55%;
+    margin-top: -11%;
 }
 .footer{
     margin-left: 30%;
