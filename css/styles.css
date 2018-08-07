@@ -12,6 +12,36 @@ body{
 .intro{
     margin-left: 30%;
     font-family: 'Pacifico', cursive;
+} 
+.boder{
+    border-style: solid;
+    border-color: red;
+    background-size: contain;
+}
+.image1{
+    margin-left: 3%;
+} 
+.image2{
+    margin-left: 24%;
+    margin-top: -11.55%;
+}
+.image3{
+    margin-left: 44%;
+    margin-top: -11%;
+}
+.image4{
+    margin-left: 62%;
+    margin-top: -11%;
+}
+.image5{
+    margin-left: 80%;
+    margin-top: -11.5%;
+}
+.quote{
+    margin-left: 30%;
+    font-family: 'Pacifico', cursive;
+    color: whitesmoke;
+    
 }
 .footer{
     margin-left: 30%;
